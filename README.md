@@ -50,8 +50,6 @@ You can learn more about the project [here](https://github.com/CodeTrophs/Fronte
 
 ## 🔧 Pre-Requisites
 
-<br>
-
 - Nodejs.
 - Clone and setup the [backend](https://github.com/CodeTrophs/Backend/) repository.
 
